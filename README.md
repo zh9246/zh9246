@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Android , MERN**
 
-- 📫 How to reach me **zhassan9246@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zh92/"><img src="https://img.shields.io/badge/-ZainHassan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
