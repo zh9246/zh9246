@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/zh92"><img src="https://img.shields.io/badge/-ZainHassan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/zh92/"><img src="https://img.shields.io/badge/-ZainHassan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:zhassan9246@gmail.com"><img src="https://img.shields.io/badge/-zhassan9246.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/zain_ch876/"><img src="https://img.shields.io/badge/-@zain_ch876-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/Zain_Hassan/"><img src="https://img.shields.io/badge/-@Zain_hassan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
