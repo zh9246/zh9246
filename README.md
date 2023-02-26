@@ -26,7 +26,7 @@
 </p>
 
 # ⚡ My Tech Stack
-![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Cpython%2Cnodedotjs%2Creact&preset=dark&shadow=true&width=200)
+![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Cpython%2Cnodedotjs%2Creact&preset=dark&shadow=true&width=100)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zh9246&show_icons=true&locale=en&layout=compact" alt="zh9246" /></p>
 
