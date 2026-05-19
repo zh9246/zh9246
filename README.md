@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **T3 Stack**
+- 🔭 I’m currently working on **>.NET Stack**
 
 - 💬 Ask me about **Android , MERN**
 
